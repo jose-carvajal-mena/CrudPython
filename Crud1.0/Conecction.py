@@ -1,5 +1,6 @@
 import pyodbc
 
+#Class for the connecion to  Sql Server.
 class ConnectionDB:
   
     def __init__(self):
